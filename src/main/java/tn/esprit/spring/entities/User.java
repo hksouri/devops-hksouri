@@ -18,6 +18,7 @@ import javax.persistence.TemporalType;
 @Table(name = "T_USER")
 public class User implements Serializable {
 	//commentaire 3alinfo5
+	// commentaire 4
 	
 	private static final long serialVersionUID = 1L;
 
